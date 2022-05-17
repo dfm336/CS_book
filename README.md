@@ -19,14 +19,14 @@
 
 
 
-
+- 所有书籍已按类比进行文件分类，分享皆是以一类文件分享，方便同类对比。
 # CS四大基础课
 
 ### 操作系统
 
 - 操作系统整理分享。[百度云下载链接](https://pan.baidu.com/s/1JEcUmDRv0fq-yNwMUSIBeQ)
 
-- 自己动手写操作系统.PDF [百度云下载链接](https://pan.baidu.com/s/1V6jlKFJYMhhXx95zL_kDdQ)  密码:8t24
+<!-- - 自己动手写操作系统.PDF [百度云下载链接](https://pan.baidu.com/s/1V6jlKFJYMhhXx95zL_kDdQ)  密码:8t24
 - 现代操作系统（第三版）中文版>.PDF  [百度云下载链接](https://pan.baidu.com/s/1pCqiD0J-zX9CZYieG8WS6g)  密码:b69r
 - 现代操作系统.PDF  [百度云下载链接](https://pan.baidu.com/s/1hu-HYJFAOsIee6SAqDm_Zw)  密码:gw9d
 - 鸟哥私房菜（全）.PDF [百度云下载链接](https://pan.baidu.com/s/1sfdfsUqtsqkAxxW3uc4RTw)  密码:766o
@@ -45,7 +45,7 @@
 - LINUX内核源代码情景分析(上).PDF  [百度云下载链接](https://pan.baidu.com/s/1Af53-XSLK1PRwqjOYZrQFA)  密码:kgit
 - Linux内核完全注释.PDF  [百度云下载链接](https://pan.baidu.com/s/1SkoByf-ZqGvc822ySYLaDA)  密码:aqso
 - Linux内核设计与实现(第三版中文高清带目录).PDF  [百度云下载链接](https://pan.baidu.com/s/1auYg1laPh3gs8IVx9K6uFQ)  密码:n6de
-- book-rev10.PDF  [百度云下载链接](https://pan.baidu.com/s/1BKwrxSxosWwiZZP1O1glWA)  密码:qk1i
+- book-rev10.PDF  [百度云下载链接](https://pan.baidu.com/s/1BKwrxSxosWwiZZP1O1glWA)  密码:qk1i -->
 
 ### 编译原理
 
@@ -53,31 +53,32 @@
 
 
 ### 计算机网络
-
+- 网络相关书籍：[百度网盘链接](https://pan.baidu.com/s/1QvM9GRGqTSLGD5YkU6txfw )
+<!-- 
 - 计算机网络自顶向下:[百度网盘链接](https://pan.baidu.com/s/1PidIzLmFVWAb8T74GyVGlQ)  密码: bhob
 - 计算机网络教程：自顶向下方法.pdf    [百度云下载链接](https://pan.baidu.com/s/12Pbm4s0jFExKdBiso4Mt8Q)  密码:gkpg
 - Wireshark网络分析就这么简单.pdf   [百度云下载链接](https://pan.baidu.com/s/1F3a4yPoKzvTnmkDNB3YiSQ)  密码:1aek
 - tcp源码分析.pdf   [百度云下载链接](https://pan.baidu.com/s/1wqtLLNudruzDSoMwoan5zA)  密码:jwk8
 - HTTP权威指南（中文版）.pdf   [百度云下载链接](https://pan.baidu.com/s/1FPYpNKrlH7cXJUCmmasR-A)  密码:2n0j
-
+ -->
 
 ### 计算机组成原理
 
 // TODO 
 
-### 计算机系统
+<!-- ### 计算机系统
 
 - 深入理解计算机系统（中文清晰）.pdf    [百度云下载链接](https://pan.baidu.com/s/11oR4ZnOfuD7uA1koCr0XQg)  密码:srbi
 - 链接器和加载器.pdf  [百度云下载链接](https://pan.baidu.com/s/14_W9GhUnTEnkzkkS55kYtg)  密码:jjj1
 - 分布式系统概念与设计 原书第5版.pdf   [百度云下载链接](https://pan.baidu.com/s/1ULEs5pkUnlOa6glwhYXBxw)  密码:d7ip
 - 程序员的自我修养—链接、装载与库--书签目录.pdf   [百度云下载链接](https://pan.baidu.com/s/1y3KCxsmVt0waey-kvs-QoQ)  密码:5ilw
-- 编码——隐匿在计算机软硬件背后的语言上.pdf   [百度云下载链接](https://pan.baidu.com/s/1X0vCd-Z9mS51NCKzgr0_iA)  密码:0fg8
+- 编码——隐匿在计算机软硬件背后的语言上.pdf   [百度云下载链接](https://pan.baidu.com/s/1X0vCd-Z9mS51NCKzgr0_iA)  密码:0fg8 -->
 
 
 # 算法和数据结构
 
-- 算法图解.pdf  [百度云下载链接](https://pan.baidu.com/s/1dhEy_uvJYoqehdvYnHzoBg)  密码:lk0v
-- 算法第四版.pdf  [百度云下载链接](https://pan.baidu.com/s/1b89HDicDLsCC_qg894FUvA)  密码:gsjc
+- 算法和数据结构相关  [百度云下载链接](https://pan.baidu.com/s/1RVqbeIsBGWoTQ68-U50hjg) 
+<!-- - 算法第四版.pdf  [百度云下载链接](https://pan.baidu.com/s/1b89HDicDLsCC_qg894FUvA)  密码:gsjc
 - 算法导论第三版.pdf  [百度云下载链接](https://pan.baidu.com/s/1ljP9Qwg5RqL_4LzrYK9jrA)  密码:qans
 - 数据结构与算法经典问题解析Java语言描述.pdf  [百度云下载链接](https://pan.baidu.com/s/1cXLrpad3Z-huk5otPVMMjg)  密码:m7ef
 - 数据结构与算法分析:C语言描述_原书第2版.pdf  [百度云下载链接](https://pan.baidu.com/s/1MudCT3RNO9I991surooqgg)  密码:1w5g
@@ -87,36 +88,38 @@
 
 - 背包九讲.pdf  [百度云下载链接](https://pan.baidu.com/s/13-ov__8xJ_SSxCmhkP4iSQ)  密码:he90
 - 啊哈算法.pdf  [百度云下载链接](https://pan.baidu.com/s/1vO9c3T3v89krlMsWEGDQCw)  密码:h89a
-- Algorithms, 4th Edition(算法，第四版).pdf  [百度云下载链接](https://pan.baidu.com/s/1ugDCe6ISRoa1Zi3UGW5Ncw)  密码:ipni
+- Algorithms, 4th Edition(算法，第四版).pdf  [百度云下载链接](https://pan.baidu.com/s/1ugDCe6ISRoa1Zi3UGW5Ncw)  密码:ipni -->
 
 # 网络编程
 
-- 深入理解Nginx模块开发与架构解析第2版.pdf    [百度云下载链接](https://pan.baidu.com/s/15qUX_EdmFEysCRZ6jb_FBw)  密码:ruuc
-- NAT概述.pdf    [百度云下载链接](https://pan.baidu.com/s/1WCzSto3gccspF9Cnvz8FmA)  密码:5skb
+- 网络编程相关书籍 [百度云下载链接](https://pan.baidu.com/s/1DU1wpj3t4n7ltf-7Z-o7_Q)  
+<!-- - NAT概述.pdf    [百度云下载链接](https://pan.baidu.com/s/1WCzSto3gccspF9Cnvz8FmA)  密码:5skb
 
 
 - Linux网络编程.pdf   [百度云下载链接](https://pan.baidu.com/s/16VlCbRzSUyiBfL7dVNqYqg)  密码:h42n
 - Linux高性能服务器编程.pdf    [百度云下载链接](https://pan.baidu.com/s/1Bf0CaJ5m3hNfJF7oNvYn6g)  密码:o054
-- Linux多线程服务端编程.pdf    [百度云下载链接](https://pan.baidu.com/s/1GNNQIOBAPpMv9OiAn9Taaw)  密码:g2vr
+- Linux多线程服务端编程.pdf    [百度云下载链接](https://pan.baidu.com/s/1GNNQIOBAPpMv9OiAn9Taaw)  密码:g2vr -->
  
 
-# 架构和设计模式
+# 设计模式
 
-- 设计模式pdf    [百度云下载链接](https://pan.baidu.com/s/1TMet-9ceUT-_1LfKac9Bgw)  密码:6af9
-- 软件架构方面.pdf [百度云下载链接](https://pan.baidu.com/s/1zGuxNXFMFnz1ul0In0hTGA)  密码:dnvl
+- 设计模式[百度云下载链接](https://pan.baidu.com/s/14jCkym5cYISEISenhUDZ8A) 
+<!-- - 软件架构方面.pdf [百度云下载链接](https://pan.baidu.com/s/1zGuxNXFMFnz1ul0In0hTGA)  密码:dnvl
 - 大型网站技术架构_核心原理与案例分析_李智慧.pdf  [百度云下载链接](https://pan.baidu.com/s/1Sq6oz5olXppL-szyBUbpGA)  密码:7f0m
 - 程序员的自我修养—链接、装载与库--书签目录.pdf   [百度云下载链接](https://pan.baidu.com/s/1y3KCxsmVt0waey-kvs-QoQ)  密码:5ilw
-- 大型分布式网站架构设计与实践.带目录书签.完整版.pdf   [百度云下载链接](https://pan.baidu.com/s/1uSDX_IW5YzcPobn00q1ZVQ)  密码:mcdd
+- 大型分布式网站架构设计与实践.带目录书签.完整版.pdf   [百度云下载链接](https://pan.baidu.com/s/1uSDX_IW5YzcPobn00q1ZVQ)  密码:mcdd -->
 
 # 数据库和存储
 
-- 高性能 MySQL 第三版.pdf [百度云下载链接](https://pan.baidu.com/s/15ErTDBdZETdcbyncJeHIMQ)  密码:244p
-- Redis开发与运维(付磊).pdf [百度云下载链接](https://pan.baidu.com/s/1z6ojYkZU88Tznk4HX6RuxQ)  密码:gsp6
-- MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf[百度云下载链接](https://pan.baidu.com/s/1YPZsJxaqTPNYtNgz3m893Q)  密码:e4m4
+- 数据库相关 [百度云下载链接](https://pan.baidu.com/s/1af7zMAh1Qb7CnaoAJ1tgxg)
+
+<!-- - Redis开发与运维(付磊).pdf [百度云下载链接](https://pan.baidu.com/s/1z6ojYkZU88Tznk4HX6RuxQ)  密码:gsp6 -->
+<!-- - MySQL 技术内幕 InnoDB 存储引擎 第 2 版.pdf[百度云下载链接](https://pan.baidu.com/s/1YPZsJxaqTPNYtNgz3m893Q)  密码:e4m4 -->
 
 
 # C++
-
+//TODO
+<!-- 
 
 - 多型与虚拟   [百度云下载链接](https://pan.baidu.com/s/1zCsLDPsY2u73SjOcuglhJw)  密码:6abk
 - 大规模C++程序设计   [百度云下载链接](https://pan.baidu.com/s/1_tngVySj-c_mr3J0wiXTWQ)  密码:3abr
@@ -135,24 +138,83 @@
 
 
 
-C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZWAJQQKZUeBtw)  密码: lrv9
+C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZWAJQQKZUeBtw)  密码: lrv9 -->
 
-# Java
 
 # JAVA
+- java相关 [百度网盘下载链接](https://pan.baidu.com/s/14jCkym5cYISEISenhUDZ8A)
 
-- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版） [百度云下载链接](https://pan.baidu.com/s/19tZRPcrl-VSN76Ifxj9LIQ)  密码:656g
+# quzrtz
+- quzrtz相关 [百度网盘下载链接](https://pan.baidu.com/s/1P28sT9M8qpdhMSeDWam4jQ)
+
+
+# nginx
+- nginx相关 [百度网盘下载链接](https://pan.baidu.com/s/1FONdJBVWruJf5ilWcYaK0g)
+
+# mybatis
+- mybatis相关 [百度网盘下载链接](https://pan.baidu.com/s/1s_9DE1tJwGh4-Js_zlX7DA)
+
+
+# spring
+- spring相关 [百度网盘下载链接](https://pan.baidu.com/s/1XIxi3alHk2gx_0Mjnr-s7w)
+
+
+# Redis
+- Redis相关 [百度网盘下载链接](https://pan.baidu.com/s/18eGhOiO3yJ9TtmEy1bPefg)
+
+
+# linux
+- linux命令相关 [百度网盘下载链接](https://pan.baidu.com/s/14jCkym5cYISEISenhUDZ8A)
+
+
+# Nacos
+- Nacos相关 [百度网盘下载链接](https://pan.baidu.com/s/1CSBD3HgFZLQt9M9ngRr6Vw)
+
+
+# ES
+- ES相关 [百度网盘下载链接](https://pan.baidu.com/s/1v3K7NiZyZ_k2SdR0zLLgNw)
+
+
+
+# Kafka
+- Kafka相关 [百度网盘下载链接](https://pan.baidu.com/s/1VwM3b5i_0gJnyAaaC1SN6w)
+
+
+# Dubbo
+- Dubbo相关 [百度网盘下载链接](https://pan.baidu.com/s/1QcN3WgmfQSJm33_H8B6ioA)
+
+# Zk
+- Zk相关 [百度网盘下载链接](https://pan.baidu.com/s/1TOKK8fttY2Sw9tooOF4vDg)
+
+# ES
+- ES相关 [百度网盘下载链接](https://pan.baidu.com/s/1v3K7NiZyZ_k2SdR0zLLgNw)
+
+# 容器化技术
+- 容器化技术相关 [百度网盘下载链接](https://pan.baidu.com/s/1g4ypryXrIPtSApPCzg5YnQ)
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- - 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版） [百度云下载链接](https://pan.baidu.com/s/19tZRPcrl-VSN76Ifxj9LIQ)  密码:656g
 - Java核心技术卷1基础知识原书第10版 [百度云下载链接](https://pan.baidu.com/s/1AbzVqRexes83F_Vt3BRDmw)  密码:v8tp
-- Effective Java 中文第二版 [百度云下载链接](https://pan.baidu.com/s/1Oi8RJ-setdMUEWWtK1y6VA)  密码:ttlk
+- Effective Java 中文第二版 [百度云下载链接](https://pan.baidu.com/s/1Oi8RJ-setdMUEWWtK1y6VA)  密码:ttlk -->
 
 
 
-# C语言
+<!-- # C语言
 
 - 高质量C编程指南.pdf   [百度云下载链接](https://pan.baidu.com/s/1mD2lqGZU2vzu8TAKjxJNBA)  密码:lw07
 - ooc.pdf   [百度云下载链接](https://pan.baidu.com/s/1nf7hdURkuK5JPxyU_5wtgA )  密码:9tkr
 - C语言接口与实现.pdf   [百度云下载链接](https://pan.baidu.com/s/1vSMqr0CIFWU5AcSqyyrJNA)  密码:pqip
-- C程序性能优化  20个实验与达人技巧.pdf   [百度云下载链接](https://pan.baidu.com/s/1KPfrU2iYb9sPFpmEyHHSvQ)  密码:snir
+- C程序性能优化  20个实验与达人技巧.pdf   [百度云下载链接](https://pan.baidu.com/s/1KPfrU2iYb9sPFpmEyHHSvQ)  密码:snir -->
 
 
 # 大数据
@@ -169,15 +231,17 @@ C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZW
 
 # 全部汇总
 
-目前我把电子书暂时放在公众号【ThinkSky】了，扫码关注下面公众号，回复「pdf」
+目前我把电子书暂时放在公众号【ThinkSky】了，扫码关注下面公众号，
 就有我收集的上百本经典计算机书籍，包含各个方向：
 
+
+<!-- 
 ![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7amsbgaij312w0r0tb6.jpg)
 
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7ane27v0j30by0bymxz.jpg)
 
-**微信扫描上方二维码回复「pdf」**
+**微信扫描上方二维码回复「pdf」** -->
 
 
 # 免责声明
