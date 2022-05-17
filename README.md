@@ -1,15 +1,15 @@
-<h1 align="center">awesome-cs-books: 超过 200 本经典的计算机书籍分享</h1>
+<h1 align="center">CS-boos: 经典计算机书籍分享</h1>
 
-**经典的编程书单大全简介:**
+**所谓经典:**
 
-> 这里汇集如下主题的经典书籍：
+> 于是乎：
 编程语言(Java、C++、C、Python等等)、操作系统、计算机网络、系统架构、设计模式、程序员数学、测试、中间件
 、前端开发、后台开发、网络编程、Linux使用及内核、求职面试、算法与数据结构
 安卓、IOS、数据库、Redis等主流的编程学习书籍。
 
 
 
-**本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
+**本仓库持续更新中，后续会陆续分享更多经典电子书，强烈建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
 
 - **[一键领取所有书籍](#全部汇总)**
 
@@ -202,7 +202,7 @@ C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZW
 
 # 全部汇总
 
-目前我把电子书暂时放在公众号【编程指北】了，扫码关注下面公众号，回复「pdf」
+目前我把电子书暂时放在公众号【ThinkSky】了，扫码关注下面公众号，回复「pdf」
 就有我收集的上百本经典计算机书籍，包含各个方向：
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwgy1gm7amsbgaij312w0r0tb6.jpg)
@@ -216,6 +216,6 @@ C++面试题集锦.PDF [百度网盘链接](https://pan.baidu.com/s/1lk7gTg8zNZW
 # 免责声明
 
 
-书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：2039652520@qq.com
+书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1355172440@qq.com
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F17FZCY8Y12PMT4VJH8JQAQX/green.svg)](https://badges.toozhao.com/stats/01F17FZCY8Y12PMT4VJH8JQAQX "Get your own page views count badge on badges.toozhao.com")
